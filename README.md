@@ -6,33 +6,28 @@ A simple Django app that allows users to create and participate in chat rooms.
 
 1. Clone the repository:
 
-git clone https://github.com/<your-username>/chat-room.git
+```git clone https://github.com/<your-username>/chat-room.git```
 
-Copy code
 
 2. Navigate to the project directory:
 
-cd chat-room
+```cd chat-room```
 
-Copy code
 
 3. Install the required packages:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-Copy code
 
 4. Run the migrations to set up the database:
 
-python manage.py migrate
+```python manage.py migrate```
 
-Copy code
 
 5. Run the development server:
 
-python manage.py runserver
+```python manage.py runserver```
 
-Copy code
 
 6. Open a browser and go to http://127.0.0.1:8000 to view the app.
 
